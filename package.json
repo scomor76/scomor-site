@@ -1,5 +1,6 @@
 {
-  "name": "scomor-site",
+  "name": "prepntech-site",
+  "description": "Prep 'n Tech – Healthy, Secure, Self-Reliant Living",
   "version": "0.1.0",
   "private": true,
   "scripts": {
